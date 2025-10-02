@@ -12,12 +12,12 @@
 
 ---
 
-## 🔗 Official Course Page
+## Official Course Page
 The official course listing is available in UGLA:  [UGLA – Course Page](https://ugla.hi.is/kennsluskra/index.php?chapter=namskeid&id=71192620256&kennsluar=2025&tab=nam)
 
 ---
 
-## 📬 Contact
+## Contact
 For questions about the course, please contact:  
 **Dr. Hemanadhan Myneni**  
 Department of Computer Science  
